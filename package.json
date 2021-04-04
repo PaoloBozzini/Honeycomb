@@ -1,0 +1,16 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "",
+   "type" : "module",
+  "main": "three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "three": "^0.126.1"
+  }
+}
